@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.iso
+Rapport.docx
+generer_rapport.py
+CD-ROM/
